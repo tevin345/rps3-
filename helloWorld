@@ -1,0 +1,6 @@
+ # This is a comment 
+
+ x = 9
+ y = "Hello World!"
+ print(x)
+ print(y)
